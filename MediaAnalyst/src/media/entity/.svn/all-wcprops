@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/MADSL/!svn/ver/134/madslClient/MediaAnalyst/src/media/entity
+END
+Audio.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MADSL/!svn/ver/134/madslClient/MediaAnalyst/src/media/entity/Audio.java
+END
+AnalyzeUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MADSL/!svn/ver/35/madslClient/MediaAnalyst/src/media/entity/AnalyzeUnit.java
+END
+DownloadHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MADSL/!svn/ver/35/madslClient/MediaAnalyst/src/media/entity/DownloadHolder.java
+END
+Video.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/MADSL/!svn/ver/35/madslClient/MediaAnalyst/src/media/entity/Video.java
+END
+VideoSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MADSL/!svn/ver/35/madslClient/MediaAnalyst/src/media/entity/VideoSegment.java
+END
+AudioLinkInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MADSL/!svn/ver/35/madslClient/MediaAnalyst/src/media/entity/AudioLinkInfo.java
+END

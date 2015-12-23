@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/MADSL/!svn/ver/145/madslClient/MediaAnalyst/lib
+END
+commons-httpclient.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/MADSL/!svn/ver/145/madslClient/MediaAnalyst/lib/commons-httpclient.jar
+END
+json-rpc-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MADSL/!svn/ver/141/madslClient/MediaAnalyst/lib/json-rpc-1.0.jar
+END
+jdom-2.0.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/MADSL/!svn/ver/141/madslClient/MediaAnalyst/lib/jdom-2.0.5.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/MADSL/!svn/ver/141/madslClient/MediaAnalyst/lib/commons-logging-1.1.1.jar
+END
+httpcore-4.2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/MADSL/!svn/ver/141/madslClient/MediaAnalyst/lib/httpcore-4.2.4.jar
+END
+htmlparser.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/MADSL/!svn/ver/141/madslClient/MediaAnalyst/lib/htmlparser.jar
+END
+httpclient-4.2.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MADSL/!svn/ver/141/madslClient/MediaAnalyst/lib/httpclient-4.2.5.jar
+END
